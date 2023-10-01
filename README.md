@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ### Training
 ```
-python main.py --name "training" --train --dataset "BreakHis"
+python main.py --name "training" --dataset "BreakHis" --train
 ```
 ### Testing
 ```
