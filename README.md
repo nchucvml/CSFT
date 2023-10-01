@@ -1,9 +1,9 @@
 # CSFT (Cross-Scale Fusion Transformer)
 
-Cross-Scale Fusion Transformer for Histopathological Image Classification  
+## Cross-Scale Fusion Transformer for Histopathological Image Classification  
 ![image](CSFT_flowchart.png)
 
-## Usage
+## Instruction
 First, download 4 datasets and put them into "../datasets/".
 
 Second, download the pretrained weight. 
