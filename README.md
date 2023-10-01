@@ -5,7 +5,7 @@
 ![image](CSFT_flowchart.png)
 
 ## Instruction
-First, download the 4 datasets and put them into "../datasets/". The URL is in ``datasets_URL.txt.``
+First, download the 4 datasets and put them into "../datasets/". The URL is in ``../datasets/datasets_URL.txt.``
 
 Second, download the pretrained weight. 
 https://drive.google.com/file/d/1VDAcBOM1CWzEMD9rfzt5zsuostxvpLI1/view?usp=drive_link
@@ -16,11 +16,11 @@ pip install -r requirements.txt
 ```
 ### Training
 ```
-python main.py --name "train" --train --dataset "BreakHis"
+python main.py --name "training" --train --dataset "BreakHis"
 ```
 ### Testing
 ```
-python main.py --name "test" --dataset "BreakHis"
+python main.py --name "testing" --dataset "BreakHis"
 ```
 Please download the following weights to reproduce the accuracy.
 
