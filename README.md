@@ -5,6 +5,7 @@ Cross-Scale Fusion Transformer for Histopathological Image Classification
 
 ## Usage
 First, download 4 datasets and put them into "../datasets/".
+
 Second, download the pretrained weight. 
 
 ### Requirements
