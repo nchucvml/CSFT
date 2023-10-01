@@ -1,4 +1,4 @@
-# CSFT (Cross-Scale Fusion Transformer)
+# CSFT
 
 ## Cross-Scale Fusion Transformer for Histopathological Image Classification  
 
