@@ -1,0 +1,12 @@
+ADL : http://signal.ee.psu.edu/medical_imaging.html
+	Simultaneous Sparsity Model for Histopathological Image Representation and Classification
+
+BreakHis : https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
+	A Dataset for Breast Cancer Histopathological Image Classification
+
+GlaS : https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/about/
+	A Stochastic Polygons Model for Glandular Structures in Colon Histology Images
+	Gland segmentation in colon histology images: The glas challenge contest
+
+YTMF : https://bioimage.ucsb.edu/research/bio-segmentation
+	Use of imperfectly segmented nuclei in the classification of histopathology images of breast cancer
