@@ -1,1 +1,1 @@
-Put all of YTMF images in this  
+Put all YTMF images into this directory.
