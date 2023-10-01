@@ -44,5 +44,11 @@ GlaS
 
 https://drive.google.com/file/d/1OEu_opOp4YEv9TAiJQ9NZACj4j9wnRjI/view?usp=drive_link
 
+## Experimental Results
+![image](BreakHis.png)
+![image](ADL.png)
+![image](YTMF.png)
+![image](GlaS.png)
+
 ## Reference 
 Please cite the following paper when you apply the code. 
