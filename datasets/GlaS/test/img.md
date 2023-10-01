@@ -1,1 +1,1 @@
-Put GlaS training images into this directory.
+Put GlaS testing images into this directory.
