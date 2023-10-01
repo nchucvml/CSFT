@@ -16,11 +16,17 @@ python main.py --name "train" --train --dataset "BreakHis"
 
 ### Testing
 python main.py --name "test" --dataset "BreakHis"
+
 Please download the following weights to reproduce the accuracy.
+
 ADL/Kidney
+
 ADL/Lung
+
 ADL/Spleen
+
 BreakHis
+
 GlaS
 
 ## Reference 
