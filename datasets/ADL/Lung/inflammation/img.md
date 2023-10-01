@@ -1,1 +1,1 @@
-Put inflammaion of Lung images into this directory.
+Put inflammation of Lung images into this directory.
