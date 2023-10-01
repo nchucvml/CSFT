@@ -2,7 +2,7 @@
 
 ## Cross-Scale Fusion Transformer for Histopathological Image Classification  
 
-![image](CSFT_flowchart.png)
+![image](png/CSFT_flowchart.png)
 
 ## Instruction
 First, download the 4 datasets and put them into ``../datasets/``. The URL is in ``../datasets/datasets_URL.txt``.
@@ -45,10 +45,10 @@ GlaS
 https://drive.google.com/file/d/1OEu_opOp4YEv9TAiJQ9NZACj4j9wnRjI/view?usp=drive_link
 
 ## Experimental Results
-![image](BreakHis.png)
-![image](ADL.png)
-![image](YTMF.png)
-![image](GlaS.png)
+![image](png/BreakHis.png)
+![image](png/ADL.png)
+![image](png/YTMF.png)
+![image](png/GlaS.png)
 
 ## Reference 
 Please cite the following paper when you apply the code. 
