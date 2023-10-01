@@ -1,1 +1,1 @@
-Put inflammaion of Spleen images into this directory.
+Put inflammation of Spleen images into this directory.
