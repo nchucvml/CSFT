@@ -5,7 +5,7 @@
 ![image](CSFT_flowchart.png)
 
 ## Instruction
-First, download the 4 datasets and put them into "../datasets/". The URL is in ``../datasets/datasets_URL.txt``.
+First, download the 4 datasets and put them into `../datasets/`. The URL is in ``../datasets/datasets_URL.txt``.
 
 Second, download the pretrained weight. 
 https://drive.google.com/file/d/1VDAcBOM1CWzEMD9rfzt5zsuostxvpLI1/view?usp=drive_link
