@@ -57,6 +57,6 @@ https://drive.google.com/file/d/1y3vtIWX6eXaKO57S9y08RLE2WDYhIIY7/view?usp=drive
 ## Reference 
 Please cite the following paper when you apply the code. 
 
-S.-K. Huang, Y.-T. Yu, C.-R. Huang and H.-C. Cheng, "Cross-Scale Fusion Transformer for Histopathological Image Classification," in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2023.3322387.
+S.-K. Huang, Y.-T. Yu, C.-R. Huang and H.-C. Cheng, "Cross-Scale Fusion Transformer for Histopathological Image Classification," in IEEE Journal of Biomedical and Health Informatics, vol. 28, no. 1, pp. 297-308, Jan. 2024, doi: 10.1109/JBHI.2023.3322387.
 
 https://ieeexplore.ieee.org/document/10273605
